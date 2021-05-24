@@ -1,4 +1,4 @@
 # point
 
-Now at (https://github.com/ahlraf/NLP-software-domain.git)[this new repository]
+Now at [this new repository](https://github.com/ahlraf/NLP-software-domain.git)
 
